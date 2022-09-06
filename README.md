@@ -1,4 +1,4 @@
-## Kia Ora, my name Is Benjamin Fuentes, I am studying compsci with a Major in Software Development
+## 👋 Kia Ora, my name Is Benjamin Fuentes, I am studying compsci with a Major in Software Development
 
 - I greatly enjoy writing meaningful code that can provide value to the user.
 - My interest is in Mobile development as well as Web Development.
